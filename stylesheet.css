@@ -1,0 +1,17 @@
+td {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  font-size: 1em;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.win {
+  width: 320px;
+  height: auto;
+  border: 2px solid red;
+  text-align: center;
+  margin-top: 20px;
+}
